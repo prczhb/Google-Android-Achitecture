@@ -1,2 +1,3 @@
 include ':app'
 include ':todo_mvp:app'
+include ':todo_mvvm_live:app'
