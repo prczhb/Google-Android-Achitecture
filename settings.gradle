@@ -1,3 +1,5 @@
 include ':app'
 include ':todo_mvp:app'
+include ':todo_mvp_rxjava:app'
+include ':todo_mvp_clean:app'
 include ':todo_mvvm_live:app'
